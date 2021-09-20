@@ -1,0 +1,10 @@
+C:\Users\Yasiru Tishan\Desktop\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\Yasiru Tishan\Desktop\DBTest\bin\Debug\DBTest.exe
+C:\Users\Yasiru Tishan\Desktop\DBTest\bin\Debug\DBTest.pdb
+C:\Users\Yasiru Tishan\Desktop\DBTest\obj\Debug\DBTest.csproj.AssemblyReference.cache
+C:\Users\Yasiru Tishan\Desktop\DBTest\obj\Debug\DBTest.Form1.resources
+C:\Users\Yasiru Tishan\Desktop\DBTest\obj\Debug\DBTest.Properties.Resources.resources
+C:\Users\Yasiru Tishan\Desktop\DBTest\obj\Debug\DBTest.csproj.GenerateResource.cache
+C:\Users\Yasiru Tishan\Desktop\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\DBTest\obj\Debug\DBTest.exe
+C:\Users\Yasiru Tishan\Desktop\DBTest\obj\Debug\DBTest.pdb
